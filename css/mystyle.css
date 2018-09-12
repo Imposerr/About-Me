@@ -1,0 +1,17 @@
+body,html{
+    background-image: url("../img/Profile.jpg");
+    background-color: rgb(24, 247, 83);
+   
+}
+
+p{
+    color: steelblue
+}
+
+.greycopy{
+    color: gray
+}
+
+#content-wrapper{
+    width: 600px
+}
