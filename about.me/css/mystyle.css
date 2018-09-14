@@ -1,0 +1,52 @@
+body,html{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+image{
+    display: block;
+    margin: 0 auto;
+    border: 10px solid red;
+    border-radius: 300px;
+}
+p{
+    color: steelblue;
+    border: 10px double blue;
+  
+}
+
+i{
+    font-size: 40px;
+    color: white
+}
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.greycopy{
+    color: gray
+}
+
+#myvideo{
+    position:fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+#content-wrapper{
+    width: 960px;
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0.5);
+    padding:20px;
+}
+
+ul > li{
+    display: inline-block;
+    margin: 0 20px 0 20px;
+    width: 300px;
+    margin: 0 auto;
+
+}
